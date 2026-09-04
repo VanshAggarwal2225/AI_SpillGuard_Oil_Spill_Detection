@@ -1,4 +1,14 @@
+# TF 2.10 — last version with native Windows GPU support
+# Requires: CUDA Toolkit 11.2 + cuDNN 8.1 installed system-wide
 tensorflow==2.10.0
-streamlit ="1.23"
+protobuf==3.19.6
+numpy==1.23.5
+streamlit==1.23.1
 matplotlib
-numpy
+pandas
+pillow
+scikit-learn
+fastapi==0.110.0
+uvicorn[standard]==0.29.0
+sqlmodel==0.0.16
+requests
