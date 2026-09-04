@@ -16,7 +16,7 @@ This repository hosts my work on oil spill detection using semantic segmentation
 - Prediction History: Track past runs with timestamps
   
 ## 🛠️ Tech Stack
-- Python (TensorFlow, Keras, NumPy, Pandas, Matplotlib, PIL)
+- Python (TensorFlow, Keras, NumPy, Pandas, Matplotlib, FastApi, SqlModel)
 - Streamlit for user interface
 - U‑Net with ResNet50 backbone for segmentation
 - Custom Loss Functions: BCE + Dice, IoU metric
